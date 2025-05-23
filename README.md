@@ -9,4 +9,5 @@ Tecnologías usadas:
 - Dominio
 - n8n (AI Agent)
 - Api de OpenIA
+- NocoDB
 - Página web (html, css y js)
